@@ -8,5 +8,6 @@ namespace Studenmgmtsys.API
 {
     internal class StudentAPI
     {
+        public int StudentId { get; set; }
     }
 }
